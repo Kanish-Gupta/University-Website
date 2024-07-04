@@ -26,4 +26,4 @@ You can view a live demo of the University Website at [https://edufolduni.netlif
 ## Setup and Usage
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Open the index.html file in your preferred web browser to explore the Amazon clone.
+3. Open the index.html file in your preferred web browser to explore the website of world's best university.
